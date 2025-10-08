@@ -1,7 +1,1 @@
 # my-site
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    </head>
-    <body>Verification: 9f7347b6e7907711</body>
-</html>
